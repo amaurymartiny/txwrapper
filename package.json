@@ -23,7 +23,7 @@
     "test": "substrate-exec-jest"
   },
   "dependencies": {
-    "@polkadot/api": "^4.13.1",
+    "@polkadot/api": "^5.0.1",
     "memoizee": "^0.4.14"
   },
   "devDependencies": {
